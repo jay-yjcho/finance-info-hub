@@ -5,7 +5,7 @@ export default function ContactPage() {
       <p className="mt-4 text-gray-700">
         문의는 이메일로 부탁드립니다.
       </p>
-      <p className="mt-2 text-gray-700">contact@financeinfohub.example</p>
+      <p className="mt-2 text-gray-700">chj.cizka87@gmail.com</p>
     </main>
   );
 }
